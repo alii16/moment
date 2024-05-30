@@ -1,6 +1,6 @@
 # Carousel
 
-[Demo](https://alii16.github.io/carousel/)
+[Demo](https://alii16.github.io/moment/)
 
 ## 🚀 How to Use
 
@@ -8,10 +8,10 @@
 
     ```bash
     # Clone this repository or download it
-    $ git clone https://github.com/alii16/carousel
+    $ git clone https://github.com/alii16/moment
 
     # Go into the repository
-    $ cd carousel
+    $ cd moment
 
     # Open it with your text editor
     $ code .
